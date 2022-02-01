@@ -8,9 +8,15 @@ Lemonade (mini E-Commerce project), with a frontend built in React & Redux and a
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO]() here!!
+Check out [FRONTEND LIVE DEMO](https://front-end-zaman.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO]() here!!
+Check out [API LIVE DEMO](https://back-end-zaman.herokuapp.com/) here!!
+
+![Screenshot 2022-02-01 at 6 32 16 PM](https://user-images.githubusercontent.com/80218920/151974032-6da7d127-91d6-4b38-9e67-108c9c7f2f33.png)
+
+![Screenshot 2022-02-01 at 6 32 46 PM](https://user-images.githubusercontent.com/80218920/151974188-8826297c-bb6f-446f-95fa-f155244d7b70.png)
+
+
 
 ## Tech used
 
