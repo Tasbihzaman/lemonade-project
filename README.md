@@ -30,7 +30,7 @@ Check out [API LIVE DEMO](https://back-end-zaman.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone 
+git clone git@github.com:Tasbihzaman/self-development-lemonade.git
 ```
 
 2. Backend setting
